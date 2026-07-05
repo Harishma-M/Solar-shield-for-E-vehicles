@@ -54,6 +54,12 @@ A modern travel application user interface showcasing destination discovery, hot
 
 [TripAdvisor-Replica](https://github.com/Harishma-M/TripAdvisor-Replica)
 
+ ## Solar-shield-for-E-vehicles
+
+An IoT-based smart solar protection system for electric vehicles that automatically detects sunlight, deploys a retractable solar shield, monitors battery status, and improves vehicle efficiency by reducing cabin temperature.
+
+[Solar-shield-for-E-vehicles](https://github.com/Harishma-M/Solar-shield-for-E-vehicles)
+
  ## Boutique Navigation
 
 A responsive boutique shopping application featuring intuitive navigation, product browsing, category filtering, and an elegant user interface for fashion retail.

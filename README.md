@@ -20,9 +20,13 @@ Passionate engineering student with hands-on experience in full-stack developmen
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" height="50"> 
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css.svg" height="50"> 
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" height="50">
-<img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">
- <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" height="30"> 
-
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/javascript.svg" height="50">
+ <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="50"> 
+ <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" height="50"> 
+ <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/node-js.svg" height="50"> 
+ <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/github.svg" height="50"> 
+ <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="50"> 
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/figma-color.svg" height="50">
 
 
 

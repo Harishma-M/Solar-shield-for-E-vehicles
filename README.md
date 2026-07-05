@@ -19,9 +19,7 @@ Passionate engineering student with hands-on experience in full-stack developmen
 ### My Skills 
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" height="50"> 
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css.svg" height="50"> 
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30">
- <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=HTML&logoColor=FFFFFF" height="30"> 
-<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=cSS&logoColor=FFFFFF" height="30"> 
+
 <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">
  <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" height="30"> 
 

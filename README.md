@@ -3,7 +3,7 @@ Solar Shield for E-Vehicles is an intelligent solution designed to protect parke
 
 # Welcome to [Harishma's](https://github.com/Harishma-M/) profile! <a href="https://github.com/Harishma-M/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://iconscout.com/lottie-animation/girl-is-using-a-laptop-animation_10841026" height=15% width=40% align="right">
+### I'm a...   <img src="[https://iconscout.com/lottie-animation/girl-is-using-a-laptop-animation_10841026](https://lottiefiles.com/free-animation/girl-working-with-laptop-sitting-on-the-sofa-cQRG0S4nRh)" height=15% width=40% align="right">
 
 * Future Data Scientist 
 * Self-Taught Coder

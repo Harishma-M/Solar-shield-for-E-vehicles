@@ -19,11 +19,11 @@ Passionate engineering student with hands-on experience in full-stack developmen
 ### My Skills 
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" height="50"> 
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css.svg" height="50"> 
-<img src="[[http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg)](https://cdn.jsdelivr.net/gh/selfhst/icons/svg/python.svg)" height="50"> 
-<img src="[https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg)" height="50">
-<img src="[https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg]" height="50"> 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java Logo" width="40" height="40" />
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30">
+ <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=HTML&logoColor=FFFFFF" height="30"> 
+<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=cSS&logoColor=FFFFFF" height="30"> 
+<img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">
+ <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" height="30"> ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
 

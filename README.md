@@ -26,7 +26,7 @@ src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/figma-c
 _(click the button!)_
 
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harishma-M) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:harishmamofficial@gmail.com)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linkedin.svg-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/Harishma-M](https://in.linkedin.com/in/harishma-m-990b64291))
+[![LinkedIn](https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linkedin.svg-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harishma-m-990b64291))
 
 - 👨‍💻All of my projects are available at [https://github.com/Harishma-M](https://github.com/)
 

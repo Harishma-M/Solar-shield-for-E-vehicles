@@ -34,41 +34,45 @@ _(click the button!)_
 
 
 
+
 Projects:
 
-# TripAdvisor-Replica
-I designed a Trip Advisor app replica in Figma, including splash, sign in/sign up, home, search, trips, reviews, and account pages. The project strengthened my UI/UX design skills, focusing on clean layouts, smooth navigation flow, and consistent user experience. It also gave me hands-on practice in mobile app prototyping and user-centered design.
+## Cyber-Safe-Application-For-Senior-Citizens
+
+A senior-friendly mobile application that educates elderly users about cybersecurity, phishing scams, online fraud, password safety, and safe internet practices through an accessible and interactive interface.
+
+[Cyber-Safe-Application-For-Senior-Citizens](https://github.com/Harishma-M/Cyber-Safe-Application-For-Senior-Citizens)
+
+ ## Vigi-Drive-Vision-Based-Driver-Vigilance-Monitoring-System
+
+An AI-powered driver vigilance monitoring system that uses computer vision, OpenCV, Dlib, and facial landmark analysis to detect driver drowsiness, eye closure, and yawning in real time, providing instant alerts to improve road safety and prevent fatigue-related accidents.
+
+[Amazon FrontEnd Replica](https://github.com/Harishma-M/Vigi-Drive-Vision-Based-Driver-Vigilance-Monitoring-System)
+
+## TripAdvisor-Replica
+A modern travel application user interface showcasing destination discovery, hotel listings, attractions, and travel recommendations with a clean and responsive design.
 
 [TripAdvisor-Replica](https://github.com/Harishma-M/TripAdvisor-Replica)
 
+ ## Boutique Navigation
+
+A responsive boutique shopping application featuring intuitive navigation, product browsing, category filtering, and an elegant user interface for fashion retail.
+
+
+[Boutique Navigation](https://github.com/Harishma-M/Boutique-Navigation)
+
 ## City-live-weather-finder
-The City-Based Weather Forecasting Web Application uses HTML, CSS, and JavaScript with API integration to show real-time weather details like temperature, humidity, and conditions. Valid city names display results, while invalid entries return errors. It demonstrates API usage, dynamic data handling, and interactive web development.
+A responsive weather application that provides real-time weather conditions, hourly forecasts, and city-based weather information using a modern user interface and weather API.
 
 [City-Based Weather Forecasting Web Application using API Integration](https://github.com/Harishma-M/city-live-weather-finder)
 
  ## Amazon-FrontEnd-Replica
 
+A responsive Amazon-inspired e-commerce frontend built using HTML, CSS, and JavaScript featuring a modern homepage, navigation bar, product sections, and shopping interface.
 
-This project will explains you about how the outlook of the Amazon can be created . As I have used HTML, CSS, Java Script programming languages in it.
-
-[Amazon FrontEnd Replica](https://github.com/Harishma-M/Amazon-Front-Look)
-[Amazon FrontEnd Replica](https://github.com/Harishma-M/Amazon-Basics)
-
-
-
-
- ## Boutique Navigation
-
-
-This Boutique-Navigation project is sample project based on the Navigation process like creation of link within another link,hovering the words by changing the colors. As this project contains basic informations Home  , About , Product , Settings &amp; Ratings.
-
-
-[Boutique Navigation](https://github.com/Harishma-M/Boutique-Navigation)
-
-
+[Amazon FrontEnd Replica](https://github.com/Harishma-M/Amazon-basics)
 
 ## Acknowledgements
 
-
-If you have any doubt or want to contribute feel free to hit me up on (harishmamofficial@gmail.com)
+If you have any doubt or want to contribute feel free to hit me up on (harishmamohank@gmail.com)(harishmamofficial@gmail.com)
 

@@ -18,7 +18,7 @@ Passionate engineering student with hands-on experience in full-stack developmen
 
 ### My Skills 
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" height="60"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css.svg" height="60"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" height="50"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/javascript.svg" height="50"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="50"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" height="50"> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/node-js.svg" height="50"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="50"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="50"> <img
-src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/figma-color.svg" height="50"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg" height="50">
+src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/figma-color.svg" height="100"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg" height="50">
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/mongodb.svg" height="50"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactjs.svg" height="50">
 
 ### Find me on 

@@ -47,7 +47,7 @@ A senior-friendly mobile application that educates elderly users about cybersecu
 
 An AI-powered driver vigilance monitoring system that uses computer vision, OpenCV, Dlib, and facial landmark analysis to detect driver drowsiness, eye closure, and yawning in real time, providing instant alerts to improve road safety and prevent fatigue-related accidents.
 
-[Amazon FrontEnd Replica](https://github.com/Harishma-M/Vigi-Drive-Vision-Based-Driver-Vigilance-Monitoring-System)
+[Vigi-Drive-Vision-Based-Driver-Vigilance-Monitoring-System](https://github.com/Harishma-M/Vigi-Drive-Vision-Based-Driver-Vigilance-Monitoring-System)
 
 ## TripAdvisor-Replica
 A modern travel application user interface showcasing destination discovery, hotel listings, attractions, and travel recommendations with a clean and responsive design.

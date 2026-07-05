@@ -1,5 +1,5 @@
 # Solar-shield-for-E-vehicles
-An IoT-based smart solar protection system for electric vehicles that automatically detects sunlight, deploys a retractable solar shield, monitors battery status, and improves vehicle efficiency by reducing cabin temperature.
+Solar Shield for E-Vehicles is an intelligent solution designed to protect parked electric vehicles from excessive heat. The system uses sensors and a microcontroller to detect sunlight intensity and automatically deploy a retractable solar shield. It helps reduce cabin temperature, improves passenger comfort, and minimizes energy consumption required for air conditioning. The project combines IoT, embedded systems, automation, and sustainable energy concepts to enhance EV efficiency.
 
 # Welcome to [Harishma's](https://github.com/Harishma-M/) profile! <a href="https://github.com/Harishma-M/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 

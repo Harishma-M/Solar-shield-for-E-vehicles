@@ -1,5 +1,5 @@
 # Solar-shield-for-E-vehicles
-Solar Shield for Electric Vehicles is an innovative sustainable energy project that uses transparent tin-based solar thin films on EV windows and roofs to generate renewable electricity, extend battery range, and reduce dependency on charging stations.
+An IoT-based smart solar protection system for electric vehicles that automatically detects sunlight, deploys a retractable solar shield, monitors battery status, and improves vehicle efficiency by reducing cabin temperature.
 
 # Welcome to [Harishma's](https://github.com/Harishma-M/) profile! <a href="https://github.com/Harishma-M/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
